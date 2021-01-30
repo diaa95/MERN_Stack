@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import MyNewComponent from "./components/MyNewComponent";
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
         <li>Run a Marathon</li>
         <li>Feed the dogs</li>
       </ul>
+        <MyNewComponent someText={"Hello World!"}/><br/>
+        <MyNewComponent someText={"I am reusing this component.."}/>
     </div>
   );
 }
