@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9339897b-f6ee-4d0f-a82d-c7f7713345ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../big_inversion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../big_inversion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hook_forms/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../hook_forms/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hook_forms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hook_forms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hook_forms/src/UserForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hook_forms/src/UserForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
