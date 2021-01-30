@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9339897b-f6ee-4d0f-a82d-c7f7713345ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../big_inversion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../big_inversion/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bde6843b-2573-4101-883e-157b10e45b52" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big_inversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prop_it_up/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../prop_it_up/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +45,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nmwHru86WAs6ty1MDvJxr8jhD6" />
+  <component name="ProjectId" id="1no2145RgTMhdYtUbaVgBm3npDo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -54,22 +60,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Diaa\Desktop\CodingDojo\MERN_Stack\prop_it_up\src\components" />
-    </key>
-  </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -87,16 +95,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9339897b-f6ee-4d0f-a82d-c7f7713345ec" name="Default Changelist" comment="" />
-      <created>1612008490466</created>
+      <changelist id="bde6843b-2573-4101-883e-157b10e45b52" name="Default Changelist" comment="" />
+      <created>1612041906491</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612008490466</updated>
-      <workItem from="1612008491622" duration="4833000" />
-      <workItem from="1612013768031" duration="33000" />
-      <workItem from="1612013821723" duration="168000" />
-      <workItem from="1612014003418" duration="4162000" />
-      <workItem from="1612041935175" duration="295000" />
+      <updated>1612041906491</updated>
+      <workItem from="1612041907694" duration="502000" />
     </task>
     <servers />
   </component>
@@ -113,7 +117,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
