@@ -1,0 +1,40 @@
+
+.header{
+    min-height: 100px;
+    background-color: #6aa84f;
+    margin: 20px;
+    border: solid 2px black;
+}
+.navigation{
+    min-height: 300px;
+    width: 180px;
+    background-color: #6fa8dc;
+    display: inline-block;
+    margin: 0px 20px;
+    border: solid 2px black;
+}
+.main{
+    min-height: 400px;
+    width: 700px;
+    background-color: #e06666;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px 20px 0px;
+    border: solid 2px black;
+}
+
+.subContent{
+    width: 209px;
+    height: 280px;
+    background-color: #ffd966;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+    border: solid 2px black;
+}
+.advertisement{
+    min-height: 120px;
+    width: 676px;
+    background-color: #b4a7d6;
+    margin: 10px;
+    border: solid 2px black;
+}
