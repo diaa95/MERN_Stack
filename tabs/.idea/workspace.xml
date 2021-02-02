@@ -2,56 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7266bb2c-9256-4dde-9831-240c23857858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/pokemon_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/components/PokemonApi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pokemon_api/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/src/components/PokemonApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/src/components/PokemonApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
