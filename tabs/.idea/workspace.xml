@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7266bb2c-9256-4dde-9831-240c23857858" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../routing/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/routing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/components/StyledRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../routing/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tabs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../routing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Tabs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +52,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -102,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612248102834</updated>
       <workItem from="1612248103983" duration="5096000" />
-      <workItem from="1612343645622" duration="610000" />
+      <workItem from="1612343645622" duration="3968000" />
     </task>
     <servers />
   </component>
@@ -129,8 +103,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/Tabs.js</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
+          <line>3</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,12 +1,20 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 
 const Tabs = (props) =>{
-    const [tabs, setTabs] = useState([{label: "Tab1", content: "content of tab 1"}, {label: "Tab2", content: "content of tab 2"},{label: "Tab3", content: "content of tab 3"}]);
+    const [tabs, setTabs] = useState([]);
+
+    useEffect(() => {
+        const y = props.strings.map((item, ind) =>{
+            const x = {label: "tab"+ind ,content: item}
+            tabs.push(x);
+            return x;
+        })
+        setTabs(y);
+    }, []);
     const [cont, setCont] = useState("");
 
-    const handleClick = key =>{
-        setCont(key);
-        console.log(key);
+    const handleClick = (e, item) =>{
+        setCont(item);
         const x = tabs.filter(item => item.content === cont);
         console.log(x);
     }
@@ -15,14 +23,14 @@ const Tabs = (props) =>{
         <>
             {
                 tabs.map(item =>
-                <button id={item.label} key={item.label} onClick={ handleClick }>{item.label}</button>
+                <button id={item.label} key={item.label} onClick={e =>  handleClick(e,item) }>{item.label}</button>
             )
             }
-            {/*<div>*/}
-            {/*        {*/}
-            {/*            x.map(item => <p>{item.content}</p> )*/}
-            {/*        }*/}
-            {/*</div>*/}
+            <div>
+                    {
+                        <p>{cont.content}</p>
+                    }
+            </div>
         </>
     );
 
