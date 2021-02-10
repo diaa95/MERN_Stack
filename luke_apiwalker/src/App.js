@@ -12,7 +12,7 @@ function App() {
       <Router>
           <People path={"/people/:id"} exact/>
           <Planets path={"/planets/:id"} exact/>
-          <Planet path={"/planet/:planet"} exact/>
+
       </Router>
     </div>
   );

@@ -13,15 +13,15 @@ const People = (props) => {
                 console.log(response);
             })
             .catch(err => console.log(err))
-    }, [props.id])
+    }, [])
     useEffect(() => {
         fetch("" + person.homeworld)
             .then(response => response.json())
             .then(response => {
                 setHomeWorld(response);
-                const x = response.url.slice(-2);
-                setMessage(x);
-                console.log(response);
+                const x = response.url.split("/");
+                const y = x[x.length - 1];
+                setMessage(y);
             }).catch(err => {
             console.log(err)
         })
