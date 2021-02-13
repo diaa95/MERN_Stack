@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c584458a-a1bf-4fa0-9b82-83eb4afc9c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../product_manager/express/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/client/src/components/Update.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product_manager/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product_manager/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/Detail.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/ProductForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/ProductForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/ProductList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/express/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/express/controllers/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/controllers/product.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/product.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/routes/product.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/users.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

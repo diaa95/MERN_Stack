@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfd1fa27-b202-493b-9001-e69d9f2d289e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../express/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Update.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pokemon_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon_api/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Detail.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProductForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../express/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../express/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../express/controllers/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../express/controllers/product.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../express/routes/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../express/routes/product.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../express/routes/product.routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../express/routes/users.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613233836686</updated>
-      <workItem from="1613233838076" duration="4616000" />
+      <workItem from="1613233838076" duration="6627000" />
     </task>
     <servers />
   </component>
