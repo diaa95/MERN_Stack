@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c584458a-a1bf-4fa0-9b82-83eb4afc9c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tabs/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tabs/src/components/Tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product_manager/express/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tabs/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tabs/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/Detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/ProductForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/ProductForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/client/src/components/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/client/src/components/ProductList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/express/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/express/controllers/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/controllers/product.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/product.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../product_manager/express/routes/product.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../product_manager/express/routes/users.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -45,17 +55,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.Debug Application">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -79,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612256878145</updated>
       <workItem from="1612256879495" duration="6368000" />
+      <workItem from="1613237302110" duration="1034000" />
     </task>
     <servers />
   </component>
@@ -95,6 +95,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -105,19 +106,16 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/PokemonApi.js</url>
           <line>9</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/PokemonApi.js</url>
           <line>11</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/PokemonApi.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

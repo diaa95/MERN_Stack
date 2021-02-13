@@ -11,7 +11,7 @@ module.exports.createProduct = (request, response) => {
 }
 
 module.exports.getAllProduct = (request, response) => {
-    product.find({})
+    Product.find({})
         .then(product => response.json(product))
         .catch(err => response.json(err))
 }

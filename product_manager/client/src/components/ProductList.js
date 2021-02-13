@@ -1,11 +1,20 @@
-import React from 'react'
-const List = props => {
+import React, { useState, useEffect } from 'react'
+import axios from "axios";
+import {Link} from "@reach/router";
+
+const List = () => {
+    const [products, setProducts] = useState([]);
+    useEffect(()=>{
+        axios.get('http://localhost:3000/api/product')
+            .then(res => setProducts(res.data))
+    })
     return (
-        <div>
-            {props.product.map((product, idx)=>{
-                return <p key={idx}>{product.title}, {product.description}, {product.price}</p>
-            })}
-        </div>
+        <ul>
+        {
+            products.map((item, idx) => <li key={idx}><Link to={`/details/${item._id}`}>{item.title}</Link></li>)
+        }
+        </ul>
     )
 }
+
 export default List;
