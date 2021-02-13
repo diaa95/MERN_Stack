@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="703980d1-8262-445d-9b19-925fb470a143" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../jokes/.idea/dataSources/295a6235-ca9a-4ade-b860-46f1aa2ad247.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jokes/.idea/dataSources/624184f9-dcb4-427b-b62a-746796cc13cb.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jokes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jokes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/components/AllAuthors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/components/NewAuthor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/components/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/config/mongoose.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/controllers/author.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/express.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/models/auther.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Author/express/routes/author.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemon_api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/express/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/express/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +81,12 @@
       <option name="presentableId" value="Default" />
       <updated>1613233633402</updated>
       <workItem from="1613233634980" duration="39000" />
+      <workItem from="1613243728140" duration="5571000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -48,5 +98,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

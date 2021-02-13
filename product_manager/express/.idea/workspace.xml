@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9a921c2-6ac0-4df2-ae54-31270b49cd06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../client/src/components/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Author/express/routes/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pokemon_api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon_api/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/components/Detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/components/Detail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../client/src/components/ProductList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/components/ProductList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/product.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/product.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/product.routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613235245247</updated>
-      <workItem from="1613235246738" duration="4062000" />
+      <workItem from="1613235246738" duration="4253000" />
     </task>
     <servers />
   </component>
